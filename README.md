@@ -267,20 +267,19 @@ Create a `generateDistrictReport` function that chains array methods to:
 
 ### Code Walkthrough Preparation
 
-For your screencast presentation, select one function and prepare to discuss:
+For your screencast presentation, select one function and discuss:
 
 1. The problem it solves
 2. Your implementation approach
 3. Key JavaScript concepts used
 4. How you maintained immutability
-5. Edge cases you considered
-6. How you might improve it further
+
+You will show your code and explain your thought process. Remember to practice speaking clearly and explaining your code step by step.
 
 ### Learning Outcomes
 
 - What are your key takeaways from this assignment?
-- How do you plan to apply what you've learned?
+- How do you plan to apply what you've learned? Might it be helpful for the upcoming project?
 - What topics would you like to explore further?
-- How has this changed your approach to working with data?
 
 Remember: Be honest about your AI usage - the goal is to learn how to effectively combine AI tools with your own understanding to solve problems.
