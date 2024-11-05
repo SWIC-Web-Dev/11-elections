@@ -1,0 +1,38 @@
+{
+  "diffEditor.wordWrap": "off",
+  "editor.codeActionsOnSave": {
+    "addMissingImports": "explicit",
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "cSpell.fixSpellingWithRenameProvider": true,
+    "cSpell.advanced.feature.useReferenceProviderWithRename": true,
+    "cSpell.advanced.feature.useReferenceProviderRemove": "/^#+\\s/"
+  },
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": false,
+  "editor.guides.indentation": false,
+  "editor.inlayHints.enabled": "off",
+  "editor.wordWrap": "off",
+  "eslint.format.enable": true,
+  "files.autoSave": "onFocusChange",
+  "javascript.autoClosingTags": true,
+  "javascript.inlayHints.parameterNames.enabled": "none",
+  "javascript.inlayHints.variableTypes.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.validate.enable": false,
+  "workbench.colorCustomizations": {
+        "editor.lineHighlightBorder": "#9fced11f",
+        "editor.lineHighlightBackground": "#1073cf2d"
+    }
+}
