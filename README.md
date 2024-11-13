@@ -204,15 +204,13 @@ Remember:
 1. All functions must be pure - no mutation of input data
 2. Use `structuredClone` for deep copying complex nested objects
 3. Maintain immutability when working with arrays and objects
-4. Handle edge cases (empty arrays, missing data, invalid IDs)
-5. Use modern JavaScript syntax (destructuring, arrow functions, etc.)
+4. Use modern JavaScript syntax (destructuring, arrow functions, etc.)
 
 ## Tips
 
 - Remember to use `structuredClone` when working with nested objects
 - Array methods like `map`, `filter`, and `reduce` create new arrays
 - The spread operator (`...`) only creates shallow copies
-- Test your functions with different data structures to ensure they handle all cases
 
 ## Bonus Challenge
 
